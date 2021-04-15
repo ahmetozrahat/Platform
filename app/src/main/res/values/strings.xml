@@ -3,4 +3,8 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="giris_email_edittext">E-Mail</string>
+    <string name="giris_parola_edittext">Parola</string>
+    <string name="giris_giris_buton">Giriş Yap</string>
+    <string name="giris_kayit_buton">Hesabınız yok mu? Kayıt olun.</string>
 </resources>
