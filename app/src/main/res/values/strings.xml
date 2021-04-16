@@ -7,4 +7,13 @@
     <string name="giris_parola_edittext">Parola</string>
     <string name="giris_giris_buton">Giriş Yap</string>
     <string name="giris_kayit_buton">Hesabınız yok mu? Kayıt olun.</string>
+    <string name="kayit_isim_edittext">Ad Soyad</string>
+    <string name="kayit_kullaniciadi_edittext">Kullanıcı Adı</string>
+    <string name="kayit_email_edittext">E-Mail</string>
+    <string name="kayit_parola_edittext">Parola</string>
+    <string name="kayit_parola2_edittext">Parola (Yeniden)</string>
+    <string name="kayit_kayit_buton">Kayıt Ol</string>
+    <string name="kayit_giris_buton">Hesabınız var mı? Giriş yapın.</string>
+    <string name="uyari_yetersiz_bilgi">Lütfen tüm alanları doldurun.</string>
+    <string name="uyari_parolalar_uyusmuyor">Parolalar uyuşmuyor. Lütfen kontrol ediniz.</string>
 </resources>

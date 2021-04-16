@@ -1,4 +1,4 @@
-package com.ozrahat.platform
+package com.ozrahat.platform.activities
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -9,6 +9,7 @@ import android.widget.Toast
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.ktx.Firebase
+import com.ozrahat.platform.R
 
 class GirisYapActivity : AppCompatActivity() {
 
@@ -49,6 +50,7 @@ class GirisYapActivity : AppCompatActivity() {
 
         kayitOlButon.setOnClickListener {
             // Kayit ol butonu tiklandi. Kayit olma sayfasina gonder.
+            finish()
             startActivity(Intent(this, KayitOlActivity::class.java))
         }
     }
